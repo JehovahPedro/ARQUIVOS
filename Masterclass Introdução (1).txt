@@ -1,0 +1,13 @@
+- Tracking
+- XZ = Grafico
+- Lead = quando uma pessoa da o e-mail para a equipe de automação
+- Trafego = impulsionador 
+- Sempre trazer CLAREZA AO CLIENTE ( mostrar como funcionará a ferramenta de automação )
+- UTMs = trafegar dados online ( levar informações de outra plataforma e armazena / levar resultados graficos para o CLIENTE )
+- Mail Markenting / Active Campaign ( ferramenta ) = Armazena/Banco de dados do Digital
+- Mostrar ao cliente que o INVESTIMENTO que ele faz, da resultados 
+- ROI = Retorno Sobre Investimento
+- O que é Automação ? Atendimento / Gerenciamento de Grupos / Vendas no Automatico / Pós Vendas / Status de Pedido / Agendamento / Recuperação de Carrinho / Confirmação de Consulta
+- Como Encontrar clientes = Intagram ( para quem ja anuncia ) / Cidade Sede ( comercios locais ) / Anúncios ( Biblioteca de Anuncios Facebook )
+- Cloudinary ( Ferramenta de criação de imagens para Instagram ) : Exemplo - Um tiket, ingresso, folheto, propaganda, bilhete e etc
+- VoiceMaker ( Ferramenta de vozes ) 
